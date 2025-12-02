@@ -1,10 +1,10 @@
-﻿<div align="center">
+<div align="center">
 
-# Hey there! I'm Mohamed Louay Ouled Ali 
+# Hey there! I'm Mohamed Louay Ouled Ali 👋
 
-###  Computer Engineering Student | Data & AI Automation Enthusiast
+### 🚀 Computer Engineering Student | Data & AI Automation Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/_Portfolio-pholio--28de8.web.app-00C7B7?style=for-the-badge)](https://pholio-28de8.web.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-pholio--28de8.web.app-00C7B7?style=for-the-badge)](https://pholio-28de8.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louay-ouledali-250936394/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/louay-ouledali)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ouledalilouay3@gmail.com)
@@ -15,31 +15,31 @@
 
 ---
 
-##  About Me
+## 🧑‍💻 About Me
 
 ```python
 class MohamedLouay:
     def __init__(self):
         self.name = "Mohamed Louay Ouled Ali"
-        self.location = "Tunisia "
+        self.location = "Tunisia 🇹🇳"
         self.education = "Computer Systems Engineering @ ISTIC"
         self.graduation = "May 2026"
         
     def current_focus(self):
         return [
-            " Backend Development & Microservices",
-            " AI Automation & Workflow Engineering",
-            " Data Engineering & Analytics",
-            " Cloud Infrastructure & DevOps"
+            "🔧 Backend Development & Microservices",
+            "🤖 AI Automation & Workflow Engineering",
+            "📊 Data Engineering & Analytics",
+            "☁️ Cloud Infrastructure & DevOps"
         ]
     
     def fun_fact(self):
-        return "I turn coffee  into code and data into insights!"
+        return "I turn coffee ☕ into code and data into insights!"
 ```
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -85,39 +85,40 @@ class MohamedLouay:
 
 ---
 
-##  Certifications
+## 🏆 Certifications
 
 <div align="center">
 
 | Certification | Issuer |
 |:-------------:|:------:|
-|  **Certified Ethical Hacker (CEH)** | EC-Council |
-|  **PL-300: Power BI Data Analyst** | Microsoft |
-|  **Professional Scrum Master** | Scrum Institute |
-|  **Python Programming** | - |
+| 🛡️ **Certified Ethical Hacker (CEH)** | EC-Council |
+| 📊 **PL-300: Power BI Data Analyst** | Microsoft |
+| 📋 **Professional Scrum Master** | Scrum Institute |
+| 🐍 **Python Programming** | - |
 
 </div>
 
 ---
 
-##  Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
-[![Dynamic Database Connector](https://github-readme-stats.vercel.app/api/pin/?username=louay-ouledali&repo=Pholio&theme=tokyonight)](https://github.com/louay-ouledali/Pholio)
+[![Pholio](https://github-readme-stats.vercel.app/api/pin/?username=louay-ouledali&repo=Pholio&theme=tokyonight)](https://github.com/louay-ouledali/Pholio)
+[![Pholio-Template](https://github-readme-stats.vercel.app/api/pin/?username=louay-ouledali&repo=Pholio-Template&theme=tokyonight)](https://github.com/louay-ouledali/Pholio-Template)
 
 </div>
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-|  **Dynamic Database Connector** | AI-driven unified database manager with multi-engine support | Spring Boot, Angular, RabbitMQ, Python, Docker |
-|  **Modern React Portfolio** | Professional portfolio with automated GitHub integration | React, Firebase, Cloudinary, AI Chat |
-|  **Data Warehouse for Log Analytics** | Star schema ETL pipeline with Power BI dashboards | SQL, DAX, Power BI, ETL |
-|  **N8n Automation Workflows** | Database to API sync with automated data cleaning | N8n, REST APIs, Automation |
+| 🔗 **Dynamic Database Connector** | AI-driven unified database manager with multi-engine support | Spring Boot, Angular, RabbitMQ, Python, Docker |
+| 🌐 **Modern React Portfolio** | Professional portfolio with automated GitHub integration | React, Firebase, Cloudinary, AI Chat |
+| 📈 **Data Warehouse for Log Analytics** | Star schema ETL pipeline with Power BI dashboards | SQL, DAX, Power BI, ETL |
+| ⚡ **N8n Automation Workflows** | Database to API sync with automated data cleaning | N8n, REST APIs, Automation |
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -130,23 +131,23 @@ class MohamedLouay:
 
 ---
 
-##  Languages
+## 🌍 Languages
 
 | Language | Proficiency |
 |:--------:|:-----------:|
-|  English | C1 (IELTS) - Professional |
-|  French | B2 (DELF) - Advanced |
-|  Arabic | Native |
+| 🇬🇧 English | C1 (IELTS) - Professional |
+| 🇫🇷 French | B2 (DELF) - Advanced |
+| 🇹🇳 Arabic | Native |
 
 ---
 
-##  Let's Connect!
+## 📫 Let's Connect!
 
 <div align="center">
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-[![Portfolio](https://img.shields.io/badge/_Check_My_Portfolio-00C7B7?style=for-the-badge)](https://pholio-28de8.web.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Check_My_Portfolio-00C7B7?style=for-the-badge)](https://pholio-28de8.web.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louay-ouledali-250936394/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ouledalilouay3@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/louay-ouledali)
@@ -155,7 +156,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <img src="https://komarev.com/ghpvc/?username=louay-ouledali&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-###  From [louay-ouledali](https://github.com/louay-ouledali)
+### ⭐ From [louay-ouledali](https://github.com/louay-ouledali)
 
 *"Transforming data into intelligent solutions, one line of code at a time."*
 
