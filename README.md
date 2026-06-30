@@ -2,7 +2,7 @@
 
 # Hey there! I'm Mohamed Louay Ouled Ali 👋
 
-### 🚀 Computer Engineering Student | Data & AI Automation Enthusiast
+### 🚀 Computer Engineering Graduate | Data & AI Automation Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-pholio--28de8.web.app-00C7B7?style=for-the-badge)](https://pholio-28de8.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louay-ouledali-250936394/)
@@ -22,8 +22,8 @@ class MohamedLouay:
     def __init__(self):
         self.name = "Mohamed Louay Ouled Ali"
         self.location = "Tunisia 🇹🇳"
-        self.education = "Computer Systems Engineering @ ISTIC"
-        self.graduation = "May 2026"
+        self.education = "Eng. Degree — Computer Systems Engineering @ ISTIC"
+        self.status = "🎓 Engineering Graduate (2026)"
         
     def current_focus(self):
         return [
@@ -104,6 +104,9 @@ class MohamedLouay:
 
 <div align="center">
 
+[![Yapper](https://github-readme-stats.vercel.app/api/pin/?username=louay-ouledali&repo=yapper&theme=tokyonight)](https://github.com/louay-ouledali/yapper)
+[![StagePilot](https://github-readme-stats.vercel.app/api/pin/?username=louay-ouledali&repo=stagepilot&theme=tokyonight)](https://github.com/louay-ouledali/stagepilot)
+[![Audit_Forge](https://github-readme-stats.vercel.app/api/pin/?username=louay-ouledali&repo=Audit_Forge&theme=tokyonight)](https://github.com/louay-ouledali/Audit_Forge)
 [![Pholio](https://github-readme-stats.vercel.app/api/pin/?username=louay-ouledali&repo=Pholio&theme=tokyonight)](https://github.com/louay-ouledali/Pholio)
 [![Pholio-Template](https://github-readme-stats.vercel.app/api/pin/?username=louay-ouledali&repo=Pholio-Template&theme=tokyonight)](https://github.com/louay-ouledali/Pholio-Template)
 
@@ -111,7 +114,10 @@ class MohamedLouay:
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| 🔗 **Dynamic Database Connector** | AI-driven unified database manager with multi-engine support | Spring Boot, Angular, RabbitMQ, Python, Docker |
+| 🎙️ **[Yapper](https://github.com/louay-ouledali/yapper)** | Offline, deliberate voice dictation — record → Whisper transcription → on-device AI cleanup → paste anywhere | Electron, React, TypeScript, Whisper, wllama |
+| 🎤 **[StagePilot](https://github.com/louay-ouledali/stagepilot)** | Offline-first presenter's cockpit — voice-follow teleprompter, auto-present, deck mirroring, Q&A copilot | Electron, React, TypeScript, Whisper, wllama |
+| 🛡️ **[AuditForge](https://github.com/louay-ouledali/Audit_Forge)** | Security audit & compliance-benchmarking platform — network discovery, benchmark checks, client management | FastAPI, React, Python, SQLAlchemy |
+| 🔗 **[Dynamic Database Connector](https://github.com/louay-ouledali/dynamic-db-connector)** | AI-driven unified database manager with multi-engine support | Spring Boot, Angular, RabbitMQ, Python, Docker |
 | 🌐 **Modern React Portfolio** | Professional portfolio with automated GitHub integration | React, Firebase, Cloudinary, AI Chat |
 | 📈 **Data Warehouse for Log Analytics** | Star schema ETL pipeline with Power BI dashboards | SQL, DAX, Power BI, ETL |
 | ⚡ **N8n Automation Workflows** | Database to API sync with automated data cleaning | N8n, REST APIs, Automation |
